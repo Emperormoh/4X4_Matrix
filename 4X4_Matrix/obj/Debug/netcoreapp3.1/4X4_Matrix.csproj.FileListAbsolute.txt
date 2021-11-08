@@ -1,0 +1,13 @@
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/bin/Debug/netcoreapp3.1/4X4_Matrix.deps.json
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/bin/Debug/netcoreapp3.1/4X4_Matrix.runtimeconfig.json
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/bin/Debug/netcoreapp3.1/4X4_Matrix.runtimeconfig.dev.json
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/bin/Debug/netcoreapp3.1/4X4_Matrix.dll
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/bin/Debug/netcoreapp3.1/4X4_Matrix.pdb
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/obj/Debug/netcoreapp3.1/4X4_Matrix.csproj.AssemblyReference.cache
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/obj/Debug/netcoreapp3.1/4X4_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/obj/Debug/netcoreapp3.1/4X4_Matrix.AssemblyInfoInputs.cache
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/obj/Debug/netcoreapp3.1/4X4_Matrix.AssemblyInfo.cs
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/obj/Debug/netcoreapp3.1/4X4_Matrix.csproj.CoreCompileInputs.cache
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/obj/Debug/netcoreapp3.1/4X4_Matrix.dll
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/obj/Debug/netcoreapp3.1/4X4_Matrix.pdb
+/Users/wemabank/Projects/4X4_Matrix/4X4_Matrix/obj/Debug/netcoreapp3.1/4X4_Matrix.genruntimeconfig.cache
